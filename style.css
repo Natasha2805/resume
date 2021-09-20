@@ -187,7 +187,7 @@ textarea:focus, input:focus{
    [data-tooltip]::after {
     content: attr(data-tooltip);
     position: absolute; 
-    width: 290px; 
+    width: 280px; 
     left: 0; top: 0; 
     background: #d3d0e2; 
     color: black;
